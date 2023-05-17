@@ -52,6 +52,47 @@ Poza nauką, Jan jest aktywny w swojej społeczności. Jest wolontariuszem w lok
 - Odpowiedzialność
 - Uczciwość
 
+# Persona B
+  - Jan Kowalski
+  - Mężczyzna
+  - Architekt
+  - Wiek: 29
+  - Miejsce zamieszkania: Warszawa
+  - Wykształcenie: architektura, Politechnika Lubelska
+  - Hobby: podróże, piłka nożna, rysunek
+```
+Urodził i wychował się w Lublinie. W liceum uczęszczał na profil mat-inf. 
+Jednak uznał, że informatyka nie jest dla niego. 
+Postanowił zostać architektem, co polecił mu jego wujek. 
+Był zaangażowanym i pilnym studentem. 
+Co roku dostawał stypendium rektora za bardzo dobre wyniki. 
+Uczęszczał na wiele warsztatów poza zajęciami. Po studiach przeprowadził się do Warszawy. 
+Założył własną firmę projektującą domy, która zapewnia mu dobre życie materialne. 
+Jest zapalonym fanem piłki nożnej. Uczęszcza na wiele meczy razem ze znajomymi. 
+Razem ze swoją dziewczyną planuje założyć rodzinę. 
+Łatwo nawiązuje kontakty z ludźmi. 
+Jego marzeniem jest odwiedzenie jak największej ilości krajów. 
+Nie ma zbyt wiele czasu na gry, ale czasami lubi pograć, aby odreagować po całym dniu pracy.
+```
+Cechy:
+ - pracowity
+ - odpowiedzialny
+ - cierpliwy
+ - kreatywny
+ - otwarty
+ - asertywny
+
+Cele:
+ - Zapewnienie wysokiego standardu życia swojej rodzinie
+ - Wyjazd do Ameryki
+ - Spłacenie kredytu za mieszkanie
+
+Obawy:
+ - Pojawienie się dużej konkurencji na rynku
+ - Brak czasu dla rodziny
+ - Utrata satysfakcji z wykonywanego zawodu
+
+Podsumowanie: Ma podstawową wiedzę na temat obsługi komputera. Nie ma jednak wysokich wymagań, co do gier. Chce tylko, aby gry, dostarczały mu przyjemności nawet na krótką chwilę, gdyż ma bardzo ograniczony czas wolny z powodu pracy.
 
 
 # Persona C
