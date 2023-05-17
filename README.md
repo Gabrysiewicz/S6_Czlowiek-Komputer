@@ -272,5 +272,123 @@ Przedstawić układ nawigacyjny w aplikacji (przejścia między stronami). Pami�
 #	OCENA SZYBKOŚCI WYKONANIA CZYNNOŚCI METODĄ KLM Z WYKORZYSTANIEM ZAPROJEKTOWANEGO PROTOTYPU INTERFEJSU
 Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KLM. Następnie przedstawić alternatywne warianty prototypów i również poddać ocenie. Porównać rezultaty i wskazać najbardziej ergonomiczny wariant. Pamiętać o załączeniu widoków interfejsu aplikacji, w których dana historyjka będzie realizowana. 
 
+<table>
+    <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
+    <tr> <td> Oprogramowanie typu desktop nr 1 </td> <td> 2 </td></tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
+    <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
+    <tr> 
+        <td> 
+            <ul> 
+                <li> przełożenie ręki na myszkę (H),  </li>
+                <li> zastanowienie się co chce zrobić (M),</li>
+                <li> wskazanie przycisku Settings (P),</li>
+                <li> kliknięcie w przycisk Settings (BB), </li>
+                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
+                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
+                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
+                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
+                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
+            </ul>
+        </td> 
+        <td> 
+            <ul> 
+                <li> a  </li>
+                <li> b </li>
+                <li> c </li>
+                <li> d </li>
+                <li> e </li>
+                <li> f </li>
+                <li> g </li>
+                <li> h </li>
+                <li> i </li>
+            </ul>
+        </td>
+    </tr>
+    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
+    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
+    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
+    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
+    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+</table>
+
+<table>
+    <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
+    <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
+    <tr> 
+        <td> 
+            <ul> 
+                <li> przełożenie ręki na myszkę (H),  </li>
+                <li> zastanowienie się co chce zrobić (M),</li>
+                <li> wskazanie przycisku Settings (P),</li>
+                <li> kliknięcie w przycisk Settings (BB), </li>
+                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
+                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
+                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
+                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
+                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
+            </ul>
+        </td> 
+        <td> 
+            <ul> 
+                <li> a  </li>
+                <li> b </li>
+                <li> c </li>
+                <li> d </li>
+                <li> e </li>
+                <li> f </li>
+                <li> g </li>
+                <li> h </li>
+                <li> i </li>
+            </ul>
+        </td>
+    </tr>
+    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
+    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
+    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
+    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
+    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+</table>
+
+<table>
+    <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
+    <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
+    <tr> 
+        <td> 
+            <ul> 
+                <li> przełożenie ręki na myszkę (H),  </li>
+                <li> zastanowienie się co chce zrobić (M),</li>
+                <li> wskazanie przycisku Settings (P),</li>
+                <li> kliknięcie w przycisk Settings (BB), </li>
+                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
+                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
+                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
+                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
+                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
+            </ul>
+        </td> 
+        <td> 
+            <ul> 
+                <li> a  </li>
+                <li> b </li>
+                <li> c </li>
+                <li> d </li>
+                <li> e </li>
+                <li> f </li>
+                <li> g </li>
+                <li> h </li>
+                <li> i </li>
+            </ul>
+        </td>
+    </tr>
+    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
+    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
+    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
+    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
+    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+</table>
+
 #	PODSUMOWANIE 
 Przedstawić wnioski wynikające z poprzednich rozdziałów oraz z całości projektu. Wskazać stopień realizacji założeń wstępnych, skomentować persony i ich historyjki (istotność i rola), wskazać zalety i wady prototypów interfejsu, skomentować obliczone czasy realizacji zadań KLM. Podsumować całość.  
