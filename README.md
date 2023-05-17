@@ -262,6 +262,10 @@ Przedstawić szkice małej i wysokiej dokładności – wstawić rysunki z podpi
 
 ## Alternatywny
 
+<img src="https://github.com/Gabrysiewicz/S6_Czlowiek-Komputer/blob/main/Unity_version_2/Unity_2_1.png" >
+<img src="https://github.com/Gabrysiewicz/S6_Czlowiek-Komputer/blob/main/Unity_version_2/Unity_2_2.png" >
+<img src="https://github.com/Gabrysiewicz/S6_Czlowiek-Komputer/blob/main/Unity_version_2/Unity_2_3.png" >
+
 #	MODEL NAWIGACJI W APLIKACJI - STORYBOARD
 Przedstawić układ nawigacyjny w aplikacji (przejścia między stronami). Pamiętać o opisie strzałek. 
 
