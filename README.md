@@ -241,8 +241,8 @@ Ewa jest również zdiagnozowana ze spektrum autyzmu. Jednakże, dzięki swojej 
 
 
 # Historyjki:
-  - Jako osoba neutralna chcę mieć opcję wyświetlenia informacji o programie, aby posiadać większe pojęcie na temat rozgrywki.
-  - Jako osoba główna muszę mieć dostęp do menu ustawień grafiki i audio, aby dostosować je do swojego sprzętu.
+  - Jako osoba główna muszę mieć dostęp do ustawień rozdzielczości, aby dostosować ją do swojego sprzętu.
+  - Jako osoba neutralna chcę mieć opcję wyświetlenia informacji o programie, aby dowiedzieć się więcej na temat rozgrywki.
   - Jako osoba z dysfunkcją wzrokową (daltonizm) chcę mieć możliwość zmiany ustawień graficznych, aby móc swobodnie używać aplikacji.
 
 #	SZKICE INTERFEJSU  
@@ -274,120 +274,88 @@ Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KL
 
 <table>
     <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
-    <tr> <td> Oprogramowanie typu desktop nr 1 </td> <td> 2 </td></tr>
-    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
-    <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień rozdzielczości, aby dostosować ją do swojego sprzętu. </td> </tr>
+    <tr> <td> Scenariusz główny </td> </tr>
     <tr> 
         <td> 
             <ul> 
-                <li> przełożenie ręki na myszkę (H),  </li>
-                <li> zastanowienie się co chce zrobić (M),</li>
-                <li> wskazanie przycisku Settings (P),</li>
-                <li> kliknięcie w przycisk Settings (BB), </li>
-                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
-                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
-                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
-                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
-                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
+                <li> przełożenie ręki na myszkę (H) </li>
+                <li> zastanowienie się co chce zrobić (M)</li>
+                <li> wskazanie przycisku Settings (P)</li>
+                <li> kliknięcie w przycisk Settings (BB)</li>
+                <li> wskazanie listy rozwijanej z rozdzielczościami (P)</li>
+                <li> kliknięcie w listę rozwijaną z rozdzielczościami (BB)</li>
+                <li> zastanowienie się jaką rozdzielczość chce wybrać (M)</li>
+                <li> wskazanie wybranej rozdzielczości z listy (P) </li>
+                <li> kliknięcie wybranej rozdzielczości (BB) </li>
+                <li> wskazanie przycisku Save (P) </li>
+                <li> kliknięcie przycisku Save (BB) </li>
             </ul>
         </td> 
-        <td> 
-            <ul> 
-                <li> a  </li>
-                <li> b </li>
-                <li> c </li>
-                <li> d </li>
-                <li> e </li>
-                <li> f </li>
-                <li> g </li>
-                <li> h </li>
-                <li> i </li>
-            </ul>
-        </td>
     </tr>
-    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
-    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
-    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
-    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
-    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+    <tr> <td> Zapis scenariusza w notacji KLM </td></tr>
+    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td></tr>
+    <tr> <td> Czas wykonania zadania</td></tr>
+    <tr> <td> 2,9 s </td></tr>
+    <tr> <td> Ocena porównawcza </td></tr>
 </table>
 
 <table>
     <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
-    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba neutralna chcę mieć opcję wyświetlenia informacji o programie, aby dowiedzieć się więcej na temat rozgrywki. </td> </tr>
     <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
     <tr> 
         <td> 
             <ul> 
-                <li> przełożenie ręki na myszkę (H),  </li>
-                <li> zastanowienie się co chce zrobić (M),</li>
-                <li> wskazanie przycisku Settings (P),</li>
-                <li> kliknięcie w przycisk Settings (BB), </li>
-                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
-                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
-                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
-                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
-                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
+                <li> przełożenie ręki na myszkę (H) </li>
+                <li> zastanowienie się gdzie można znaleźć informacje o grze (M) </li>
+                <li> wskazanie przycisku About (P) </li>
+                <li> kliknięcie w przycisk About (BB)  </li>
             </ul>
         </td> 
         <td> 
             <ul> 
-                <li> a  </li>
-                <li> b </li>
-                <li> c </li>
-                <li> d </li>
-                <li> e </li>
-                <li> f </li>
-                <li> g </li>
-                <li> h </li>
-                <li> i </li>
+                <li> przełożenie ręki na myszkę (H) </li>
+                <li> zastanowienie się gdzie można znaleźć informacje o grze (M) </li>
+                <li> wskazanie przycisku About (P) </li>
+                <li> kliknięcie w przycisk About (BB) </li>
+                <li> wskazanie linku do strony internetowej (P) </li>
+                <li> kliknięcie w link (BB)
+                <li> oczekiwanie na otwarcie przeglądarki (R) </li>
             </ul>
         </td>
     </tr>
     <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
-    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
-    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
-    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
-    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+    <tr> <td> H + M + P + BB </td> <td> H + M + P + BB + P + BB + R </td></tr>
+    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> Czas wykonania zadania wg scenariusza 2 </td></tr>
+    <tr> <td> 2,9 s </td> <td> 4,2s + R </td></tr>
+    <tr> <td> Ocena porównawcza </td> <td> ?? </td></tr>
 </table>
 
 <table>
     <tr> <td colspan='2'> <img width='881' height='1'> </td> </tr>
-    <tr> <td colspan='2'> Zadanie: Jako osoba główna muszę mieć dostęp do ustawień grafiki, aby dostosować rozdzielczość gry do swojego sprzętu. </td> </tr>
-    <tr> <td> Scenariusz główny </td> <td> Scenariusz alternatywny </td></tr>
+    <tr> <td colspan='2'> Zadanie: Jako osoba z dysfunkcją wzrokową (daltonizm) chcę mieć możliwość zmiany zakresu daltonizmu, aby móc swobodnie używać aplikacji. </td> </tr>
+    <tr> <td> Scenariusz główny </td> </tr>
     <tr> 
         <td> 
             <ul> 
-                <li> przełożenie ręki na myszkę (H),  </li>
-                <li> zastanowienie się co chce zrobić (M),</li>
-                <li> wskazanie przycisku Settings (P),</li>
-                <li> kliknięcie w przycisk Settings (BB), </li>
-                <li> wskazanie listy rozwijanej z rozdzielczościami (P), </li>
-                <li> kliknięcie w  listę rozwijaną z rozdzielczościami (BB), </li>
-                <li> zastanowienie się jaką rozdzielczość chce wybrać (M), </li>
-                <li> wskazanie wybranej rozdzielczości z listy (P), kliknięcie wybranej rozdzielczości (BB), </li>
-                <li> wskazanie przycisku Save (P), kliknięcie przycisku Save (BB) </li>
-            </ul>
-        </td> 
-        <td> 
-            <ul> 
-                <li> a  </li>
-                <li> b </li>
-                <li> c </li>
-                <li> d </li>
-                <li> e </li>
-                <li> f </li>
-                <li> g </li>
-                <li> h </li>
-                <li> i </li>
+                <li> przełożenie ręki na myszkę (H) </li>
+                <li> zastanowienie  co chce zrobić (M) </li>
+                <li> wskazanie przycisku Settings (P) </li>
+                <li> kliknięcie w przycisk Settings (BB) </li>
+                <li> wskazanie listy rozwijanej z dostępnymi odmianami daltonizmu (P) </li>
+                <li> kliknięcie w listę rozwijaną z dostępnymi odmianami daltonizmu (BB) </li>
+                <li> zastanowienie się nad wyborem (M), wskazanie wybranej odmiany daltonizmu (P) </li>
+                <li> kliknięcie w wybraną odmianę daltonizmu (BB), wskazanie przycisku Save (P) </li>
+                <li> kliknięcie przycisku Save (BB) </li>
             </ul>
         </td>
     </tr>
-    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> <td> Zapis scenariusza 2 w notacji KLM </td></tr>
-    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> <td> 2 </td></tr>
-    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> 2 </td></tr>
-    <tr> <td> 2,9 s </td> <td> 2 </td></tr>
-    <tr> <td> Ocena porównawcza </td> <td> 2 </td></tr>
+    <tr> <td> Zapis scenariusza 1 w notacji KLM </td> </tr>
+    <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> </tr>
+    <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> </tr>
+    <tr> <td> 8 s </td> </tr>
+    <tr> <td> Ocena porównawcza </td> </tr>
 </table>
 
 #	PODSUMOWANIE 
