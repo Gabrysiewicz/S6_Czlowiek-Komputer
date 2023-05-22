@@ -299,7 +299,7 @@ Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KL
     <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td></tr>
     <tr> <td> Czas wykonania zadania</td></tr>
     <tr> <td> 2,9 s </td></tr>
-    <tr> <td> Ocena porównawcza </td></tr>
+    <tr> <td> Ocena porównawcza: Modyfikacja interfejsu dla tego konkretnego przypadku nie miała wpływu na efektywność natomiast przyśpieszyła dostęp do pozostałych ustawień audio i sterowania </td></tr>
 </table>
 
 <table>
@@ -331,7 +331,7 @@ Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KL
     <tr> <td> H + M + P + BB </td> <td> H + M + P + BB + P + BB + R </td></tr>
     <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> <td> Czas wykonania zadania wg scenariusza 2 </td></tr>
     <tr> <td> 2,9 s </td> <td> 4,2s + R </td></tr>
-    <tr> <td> Ocena porównawcza </td> <td> ?? </td></tr>
+    <tr> <td> Ocena porównawcza </td> <td> Użytkownik otrzymuje zbalansowaną ilość informacji które mogłyby się znajdywać w sekcji `About`, natomiast gdyby to mu nie wystarczało, interfejs jest w stanie zaoferować dostęp do wiekszej ilość informacji poprzez link do strony internetowej poświęconej oprogramowaniu </td></tr>
 </table>
 
 <table>
@@ -357,8 +357,20 @@ Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KL
     <tr> <td> H + M + P + BB + P + BB + M + P + BB + P + BB </td> </tr>
     <tr> <td> Czas wykonania zadania wg scenariusza 1 </td> </tr>
     <tr> <td> 8 s </td> </tr>
-    <tr> <td> Ocena porównawcza </td> </tr>
+    <tr> <td> Ocena porównawcza: Tym razem również, modyfikacja interfejsu nie miała wpływu na efektywność tego zadania, może to świadczyć o pewnej priorytyzacji zadań użytkownika, zakładamy, że użytkownik najpierw będzie zainteresowany ustawieniami graficznymi, następnie dźwiękowymi a na końcu już po rozpoczęciu rozgrywki zainteresują go opcje sterowania </td> </tr>
 </table>
 
 #	PODSUMOWANIE 
-Przedstawić wnioski wynikające z poprzednich rozdziałów oraz z całości projektu. Wskazać stopień realizacji założeń wstępnych, skomentować persony i ich historyjki (istotność i rola), wskazać zalety i wady prototypów interfejsu, skomentować obliczone czasy realizacji zadań KLM. Podsumować całość.  
+*Przedstawić wnioski wynikające z poprzednich rozdziałów oraz z całości projektu. Wskazać stopień realizacji założeń wstępnych, skomentować persony i ich historyjki (istotność i rola), wskazać zalety i wady prototypów interfejsu, skomentować obliczone czasy realizacji zadań KLM. Podsumować całość.*  
+<p>
+    Interfejs graficzny użytkownika jest dobrze zoptymalizowany zarówno pod personę główną jak i neutralną, założenia dotyczące persony głównej takie jak priorytyzacja elementów interfejsu ma pozytywny wpływ również na pozostałe persony. Historyjki dotyczące person opierają się głównie na najczęstszych krokach graczy po uruchomieniu gry ( Zmiana ustawień oraz dostosowanie dźwięku i sterowania). Najczęściej gracze udają się do sekcji `Audio` w celu zmniejszczenia głośności, podczas gdy u nas domyślną wartością jest 5% a nie 100% jak w większości gier na rynku.
+</p>
+<p>
+    Dzięki alternatywnej opcji interfejsu udało się nam uzyskać lepsze czasy oraz mniejszą ilość kliknięć, kosztem wymuszenia scrolla, co w ogólnym rozrachunku wypada pozytywnie. Niestety wymagało to zmieszczenia większej ilości informacji na mniejszej przestrzeni, oryginalny model interfejsu wydawał się być bardziej uporządkowany poprzez rozdzielenie konkretnych opcji do osobnym okien/zakładek.
+</p>
+<p>
+Założenia wstępne zostały zrealizowane w znacznym stopniu, zabrakło ustawienia dotyczącego zmiany rozmiaru interfejsu, ale rozmiar okien jak i czcionki został dopasowany tak aby pasować do większości urządzeń. Pojawił się również kolor główny (#ffC100 - żółty / pomarańczowy ) w monochromatycznej palecie barw, co powinno pozytywnie wpływać na ogólny odbiór UI. 
+</p>
+<p>
+Jeżeli chodzi o czasy to są one dobre, jedynie zadanie dotyczące persony dysfunkcyjnej może wydawać się długie, ale wynika to ze względu na potrzębę uwzględnienia popularnych odmian daltonizmu. Nie czas dostępu do opcji jest długi a samo określenie konkretnej opcji przez użytkownika.
+</p>
