@@ -269,6 +269,8 @@ Przedstawić szkice małej i wysokiej dokładności – wstawić rysunki z podpi
 #	MODEL NAWIGACJI W APLIKACJI - STORYBOARD
 Przedstawić układ nawigacyjny w aplikacji (przejścia między stronami). Pamiętać o opisie strzałek. 
 
+<img src="https://github.com/Gabrysiewicz/S6_Czlowiek-Komputer/blob/main/Storyboard.png" >
+
 #	OCENA SZYBKOŚCI WYKONANIA CZYNNOŚCI METODĄ KLM Z WYKORZYSTANIEM ZAPROJEKTOWANEGO PROTOTYPU INTERFEJSU
 Obliczyć czasy wykonania historyjek poszczególnych person zgodnie z metodą KLM. Następnie przedstawić alternatywne warianty prototypów i również poddać ocenie. Porównać rezultaty i wskazać najbardziej ergonomiczny wariant. Pamiętać o załączeniu widoków interfejsu aplikacji, w których dana historyjka będzie realizowana. 
 
