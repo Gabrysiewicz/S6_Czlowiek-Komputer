@@ -1,8 +1,3 @@
-
-# Czlowiek-Komputer
-
-
-
 # PROJEKT APLIKACJI – OPIS I WSTĘPNE ZAŁOŻENIA PROJEKTOWE  
 ## Cel Aplikacji: Rozrywka
 ### Założenia: 
